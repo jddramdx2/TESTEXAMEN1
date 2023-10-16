@@ -1,0 +1,7 @@
+C:\Users\Specialist\source\repos\PracticaExam1\PracticaExam1\obj\Debug\PracticaExam1.csproj.AssemblyReference.cache
+C:\Users\Specialist\source\repos\PracticaExam1\PracticaExam1\obj\Debug\PracticaExam1.csproj.CoreCompileInputs.cache
+C:\Users\Specialist\source\repos\PracticaExam1\PracticaExam1\bin\Debug\PracticaExam1.exe.config
+C:\Users\Specialist\source\repos\PracticaExam1\PracticaExam1\bin\Debug\PracticaExam1.exe
+C:\Users\Specialist\source\repos\PracticaExam1\PracticaExam1\bin\Debug\PracticaExam1.pdb
+C:\Users\Specialist\source\repos\PracticaExam1\PracticaExam1\obj\Debug\PracticaExam1.exe
+C:\Users\Specialist\source\repos\PracticaExam1\PracticaExam1\obj\Debug\PracticaExam1.pdb

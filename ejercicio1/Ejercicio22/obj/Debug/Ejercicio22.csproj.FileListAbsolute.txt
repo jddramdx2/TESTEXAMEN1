@@ -1,0 +1,7 @@
+C:\Users\Specialist\source\repos\ejercicio1\Ejercicio22\bin\Debug\Ejercicio22.exe.config
+C:\Users\Specialist\source\repos\ejercicio1\Ejercicio22\bin\Debug\Ejercicio22.exe
+C:\Users\Specialist\source\repos\ejercicio1\Ejercicio22\bin\Debug\Ejercicio22.pdb
+C:\Users\Specialist\source\repos\ejercicio1\Ejercicio22\obj\Debug\Ejercicio22.csproj.AssemblyReference.cache
+C:\Users\Specialist\source\repos\ejercicio1\Ejercicio22\obj\Debug\Ejercicio22.csproj.CoreCompileInputs.cache
+C:\Users\Specialist\source\repos\ejercicio1\Ejercicio22\obj\Debug\Ejercicio22.exe
+C:\Users\Specialist\source\repos\ejercicio1\Ejercicio22\obj\Debug\Ejercicio22.pdb
